@@ -1,3 +1,4 @@
+---
 layout: recipe
 title:  "Cheddar Jalapeno Cornbread Muffins"
 image: cheddar-jalapeno-cornbread-muffins.jpg
